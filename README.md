@@ -7,15 +7,15 @@ Realiza una pequeña encuesta interactiva por interfaz gráfica(escuestador.py),
 
 _Use el comando git_
 
-'''
+```
 $ git clone https://github.com/CristianBY/encuestador.git
-'''
+```
 
 _Checkout con svn use la URL:_
 
-'''
+```
 https://github.com/CristianBY/encuestador.git
-'''
+```
 
 ## Requisitos 📋
 
@@ -28,25 +28,25 @@ Estas indicaciones son para ejecutar las pruebas en la linea de comandos:
 Dentro del directorio donde se encuentren los ejecutables.
 
 _Win_
-'''
+```
 py encuestador.py
-'''
+```
 _Linux_
-'''
+```
 $ python3 encuestadot.py
-'''
+```
 
 Una vez ejecutado almacena los datos en encuesta. Se puede volver a ejecutar y sigue añadiendo más datos.
 Una vez terninadas las encuestas se pueden recopilar datos:
 
 _Win_
-'''
+```
 py operadorCiudad.py
-'''
+```
 _Linux_
-'''
+```
 $ python3 operadorCiudad.py
-'''
+```
 
 Una vez ejecutado almacena datos en mapaOperador.
 
