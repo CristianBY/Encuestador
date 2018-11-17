@@ -1,6 +1,6 @@
 # Encuestador
 
-Es un proyecto en python3 para la clase de programación de Desarrollo de Aplicaciones Web.
+Es un proyecto en python3 para la clase de programación de Desarrollo de Aplicaciones Web.  
 Realiza una pequeña encuesta interactiva por interfaz gráfica(escuestador.py), almacena los datos en un fichero encuesta. Da la opción de trabajar los datos del fichero encuesta y crea uno nuevo mapaOperador con la información por operador y las ciudades usando oparadorCiudad.py
 
 ## Comenzando 🚀
@@ -24,7 +24,7 @@ Tener instalado python3.
 
 ## Ejecutando las pruebas ⚙️
 
-Estas indicaciones son para ejecutar las pruebas en la linea de comandos:
+Estas indicaciones son para ejecutar las pruebas en la linea de comandos:  
 Dentro del directorio donde se encuentren los ejecutables.
 
 _Win_
@@ -36,7 +36,7 @@ _Linux_
 $ python3 encuestadot.py
 ```
 
-Una vez ejecutado almacena los datos en encuesta. Se puede volver a ejecutar y sigue añadiendo más datos.
+Una vez ejecutado almacena los datos en encuesta. Se puede volver a ejecutar y sigue añadiendo más datos.  
 Una vez terninadas las encuestas se pueden recopilar datos:
 
 _Win_
