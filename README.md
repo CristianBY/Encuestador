@@ -33,10 +33,10 @@ py encuestador.py
 ```
 _Linux_
 ```
-$ python3 encuestadot.py
+$ python3 encuestador.py
 ```
 
-Una vez ejecutado almacena los datos en encuesta. Se puede volver a ejecutar y sigue añadiendo más datos.  
+Una vez ejecutado almacena los datos en [encuesta](encuesta). Se puede volver a ejecutar y sigue añadiendo más datos.  
 Una vez terninadas las encuestas se pueden recopilar datos:
 
 _Win_
@@ -48,7 +48,7 @@ _Linux_
 $ python3 operadorCiudad.py
 ```
 
-Una vez ejecutado almacena datos en mapaOperador.
+Una vez ejecutado almacena datos en [mapaOperador](mapaOperador).
 
 ## Colaboradores 🖇️
 
