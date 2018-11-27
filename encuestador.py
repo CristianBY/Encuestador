@@ -1,10 +1,10 @@
 import tkinter as tk
 from tkinter import simpledialog
 
-application_window = tk.Tk()
+application_window = tk.Tk().withdraw()
 respuesta=[]
 
-fr=open("encuesta","a")
+fr=open("encuesta","a",encoding="iso-8859-1")
 entry=True
 while entry:
 	answer = None
