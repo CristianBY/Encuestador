@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import simpledialog
+import time
 
 application_window = tk.Tk().withdraw()
 respuesta=[]
@@ -26,6 +27,8 @@ while entry:
 	                               parent=application_window)
 		if answer is not None:
 			respuesta.append(answer)
+	fecha = time.strftime("%d/%m/%y")
+	respuesta.append(fecha)
 	i=1
 	for v in respuesta:
 		if len(respuesta)==i:
