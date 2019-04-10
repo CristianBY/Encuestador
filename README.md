@@ -1,4 +1,4 @@
-# Encuestador
+# Encuestadorv0.1
 
 Es un proyecto en python3 para la clase de programación de Desarrollo de Aplicaciones Web.  
 Realiza una pequeña encuesta interactiva por interfaz gráfica(escuestador.py), almacena los datos en un fichero encuesta. Da la opción de trabajar los datos del fichero encuesta y crea uno nuevo mapaOperador con la información por operador y las ciudades usando oparadorCiudad.py
